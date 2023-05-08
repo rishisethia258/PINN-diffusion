@@ -24,38 +24,38 @@
 ##### 1D Diffusion with Neumann conditions
 - On a bar, flux is applied on the left boundary with Neumann conditions
 ###### Result :
-![1DDiffusionWithNeumannConditions](/neumann1d.gif "1D Diffusion with Neumann Conditions")
+![1DDiffusionWithNeumannConditions](?Images/neumann1d.gif "1D Diffusion with Neumann Conditions")
 
 ##### 1D Diffusion with Dirichlet conditions
 - On a bar, flux is applied on the left boundary with Dirichlet conditions
 ###### Result :
-![1DDiffusionWithDirichletConditions](/dirichlet1d.gif "1D Diffusion with Dirichlet Conditions")
+![1DDiffusionWithDirichletConditions](/Images/dirichlet1d.gif "1D Diffusion with Dirichlet Conditions")
 
 ##### 1D Diffusion with Robin conditions
 - On a bar, flux is applied on the both the boundary with Neumann condtions
 ###### Result :
-![1DDiffusionWithRobinConditions](/robin1d.gif "1D Diffusion with Robin Conditions")
+![1DDiffusionWithRobinConditions](/Images/robin1d.gif "1D Diffusion with Robin Conditions")
 
 #### 2D Problems
 ##### 2D Diffusion with Neumann conditions
 - On a plate, flux is applied on the left boundary with Neumann conditions
 ###### Result :
 <p float="left">
-  <img src="/neumann2dpinn.gif" width="32%" />
-  <img src="/neumann2danalytical.gif" width="32%" /> 
-  <img src="/neumann2derror.gif" width="32%" />
+  <img src="/Images/neumann2dpinn.gif" width="32%" />
+  <img src="/Images/neumann2danalytical.gif" width="32%" /> 
+  <img src="/Images/neumann2derror.gif" width="32%" />
 </p>
 
 ##### 2D Diffusion with Dirichlet conditions
 - On a plate, flux is applied on the left boundary with Neumann conditions
 ###### Result :
 <p float="left">
-  <img src="/dirichlet2dpinn.gif" width="32%" />
-  <img src="/dirichlet2danalytical.gif" width="32%" /> 
-  <img src="/dirichlet2derror.gif" width="32%" />
+  <img src="/Images/dirichlet2dpinn.gif" width="32%" />
+  <img src="/Images/dirichlet2danalytical.gif" width="32%" /> 
+  <img src="/Images/dirichlet2derror.gif" width="32%" />
 </p>
 
 ##### 2D Diffusion with Neumann conditions on partial boundary
 - On a plate, flux is applied on bottom one-fourth of the left boundary with Neumann conditions
 ###### Result :
-![2DDiffusionWithNeumannConditionsPartialBoundary](/neumann2dpartialboundary.gif "1D Diffusion with Robin Conditions")
+![2DDiffusionWithNeumannConditionsPartialBoundary](/Images/neumann2dpartialboundary.gif "1D Diffusion with Robin Conditions")
