@@ -24,7 +24,7 @@
 ##### 1D Diffusion with Neumann conditions
 - On a bar, flux is applied on the left boundary with Neumann conditions
 ###### Result :
-![1DDiffusionWithNeumannConditions](?Images/neumann1d.gif "1D Diffusion with Neumann Conditions")
+![1DDiffusionWithNeumannConditions](/Images/neumann1d.gif "1D Diffusion with Neumann Conditions")
 
 ##### 1D Diffusion with Dirichlet conditions
 - On a bar, flux is applied on the left boundary with Dirichlet conditions
